@@ -59,7 +59,7 @@ function Body(){
             pos: 'SYDNEY',
             time: dateObj.toLocaleString('en-GB', dateObjOption('Australia/Sydney'))
          }
-      ])
+      ]);
    }
    return(
       <div className="content_wrapper">
